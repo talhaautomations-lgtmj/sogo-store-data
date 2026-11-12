@@ -1,0 +1,1 @@
+# sogo-store-data
